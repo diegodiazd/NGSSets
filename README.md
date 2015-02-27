@@ -11,7 +11,7 @@ Next generation sequencing (NGS) is one of the most widely used technologies in 
 
 ### SNPs datasets
 
-### Aliment datasets
+### Alignment datasets
 
 ### How to add NGSSets to my JAVA project?
 
