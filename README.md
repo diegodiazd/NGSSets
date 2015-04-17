@@ -8,9 +8,10 @@ This is the most common dataset in Genomics, represented by FASTA format. It con
 Next generation sequencing (NGS) is one of the most widely used technologies in genomics. The format used in NGS data is FASTQ, a variation of FASTA, that include some extra information about the sequencing process. With NGSSets you can perform several operations, such as, import and export FASTQ files, downsampling, remove and add entries, etc.
 
 ### Genomic coordinates datasets
-A common task in genomics is to work with coordinates of genomic features, commonly represented by BED, GTF, GFF, GFF3 formats etc. With this API you will be able to do a lot of arithmetic operations with this coordinates, such as, intersect coordinates, get coverage, subtract coverage, get flank regions, etc. 
+A common task in genomics is to work with coordinates of genomic features, commonly represented by BED, GTF, GFF, GFF3 formats. With this API you will be able to do a lot of arithmetic operations with this coordinates, such as, intersect features, get coverage, subtract genome, get flank regions, etc.
 
 ### SNPs datasets
+
 
 ### Alignment datasets
 
