@@ -12,6 +12,7 @@ A common task in genomics is to work with coordinates of genomic features, commo
 
 ### SNPs datasets
 
+The effect of Single Nucleotide Polymorphisms in the genome can be very important, and very different depending on the individual, hence it has been an important area of study. SNP data is commonly stored in a Variant Call File, or VCF file. This API can manage this sort of files and apply a list of filters, such as, quality filter, position filter, heterozygosity filter, etc. Besides, it can predict if the effect of the SNPs is synonymous or nonsynonymous, the amino acid translation, etc.
 
 ### Alignment datasets
 
